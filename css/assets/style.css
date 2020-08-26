@@ -1,0 +1,85 @@
+html,body{
+	font-size: .92rem;
+	height: 100%;
+	font-family: 'Rajdhani', sans-serif;
+}
+
+.page-header{
+	margin-top: 20px;
+	font-size: 1rem;
+	color: #fff;
+}
+.navbar-brand{
+	font-size: 1.7rem;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+span{
+	color: #0685cd;
+
+}
+
+.gradient {
+  background: rgb(0, 97, 242);
+  background: linear-gradient(
+    135deg,
+    rgba(0, 97, 242, 1) 0%,
+    rgba(105, 0, 199, 1) 100%
+  );
+}
+
+/*--------------------*/
+
+
+.btn{
+	border-radius: 0px;
+	color: #fff;
+}
+
+.feature{
+	font-size: 1rem;
+	color: #fff;
+}
+
+.feature p{
+	text-align: justify;
+}
+
+.feature ul{
+	padding-left: 2rem;
+	list-style: none;
+}
+.feature ul li{
+	padding-left: 2rem;
+	background-image: url(../../img/check.svg);
+    background-repeat: no-repeat;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+}
+
+
+.icon{
+	color: #fff;
+	font-size: 1rem;
+	border-radius: 50%;
+	width: 5rem;
+	height: 5rem;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.services{
+	color: #fff;
+}
+.services img{
+	width: 100%
+}
+
+footer {
+  color: #fff;
+  font-size: 1rem;
+  margin: 0;
+  padding: 1rem;
+}
